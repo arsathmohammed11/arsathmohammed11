@@ -1,13 +1,13 @@
 <div align="center">
 
-  <!-- HEADER BANNER -->
+  <!-- GLITCH TERMINAL TITLE -->
   <a href="https://github.com/arsathmohammed11">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=ARSATH%20MOHAMMED&fontSize=38&fontAlignY=38&fontColor=00FF88&desc=%3E%20INITIALIZING%20NEURAL%20TERMINAL...%20ACCESS%20GRANTED&descSize=16&descAlignY=62&descAlign=50" width="100%" alt="Cyberpunk Terminal Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=%E2%96%B6+ARSATH+MOHAMMED+%E2%97%80;%3E+INITIALIZING+TERMINAL...;%5B+SYSTEM+ONLINE+%7C+ROOT_ACCESS+%5D" alt="Arsath Mohammed Terminal Banner" />
   </a>
 
-  <!-- ANIMATED TYPING TAGLINE -->
+  <!-- ANIMATED CODE SUBTITLE -->
   <a href="https://github.com/arsathmohammed11">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00FF88&center=true&vCenter=true&width=660&lines=const+engineer+%3D+new+Developer(%22Arsath+Mohammed%22)%3B;while(alive)+%7B+build()%3B+harden()%3B+deploy()%3B+%7D;Architecting+scalable+systems+%26+cloud+infrastructure;Security-first+mindset+%7C+Zero-Trust+architecture" alt="Animated Terminal Typing Tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=99FFBB&center=true&vCenter=true&width=650&lines=Software+Engineer+%26+Systems+Builder;Architecting+scalable+systems+%26+cloud+infra;Security-first+engineering+%7C+Distributed+systems;while(alive)+%7B+build()%3B+harden()%3B+deploy()%3B+%7D" alt="Terminal Subtitle" />
   </a>
 
   <br />
@@ -36,3 +36,14 @@ arsath@cyberdeck:~\$ whoami
 arsath@cyberdeck:~\$ cat /etc/motd
 [+] "Talk is cheap. Show me the code." — Linus Torvalds
 [+] Architecture Philosophy: Clean Abstractions | Zero Bloat | Observable by Default
+system_diagnostic:
+  status: "ONLINE"
+  current_focus: "Engineering scalable web infrastructure and resilient API gateways"
+  exploring: "Systems internals, asynchronous concurrency, and performance profiling"
+  collaborating_on: "Open-source developer tooling, CLI utilities, and security tools"
+  open_to: "Challenging engineering opportunities, technical discussions, and collaborative builds"
+  arsath@cyberdeck:~\$ tail -n 5 /var/log/objectives.log
+[2026-Q4] [DONE] Streamlined microservices deployment pipeline with containerization
+[2026-Q4] [WIP]  Refining distributed caching strategies and database indexing
+[2027-Q1] [GOAL] Publish open-source CLI tools for developer productivity
+[2027-Q2] [GOAL] Deepen systems-level knowledge and real-time networking protocols
