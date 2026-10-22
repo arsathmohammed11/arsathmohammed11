@@ -1,39 +1,96 @@
-<!-- ===================================================================
-  PROJECT: GHOST_PROTOCOL // TERMINAL OS 2099
-  User: Arsath Mohammed | Username: arsathmohammed11
-  Palette:
-    - Void Base: #050505 | Secondary: #0B0F0C
-    - Core Accent: #00FF88 (Neon Green) | Highlight: #39FF14
-    - Muted Wire: #8B949E | Grid Border: #183D2B
-=================================================================== -->
-
 <div align="center">
 
-  <!-- EPIC HEADER DECK -->
-  <a href="https://github.com/arsathmohammed11">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=050505&height=160&section=header&text=GHOST_PROTOCOL%20%3A%3A%20SYSTEM%20ONLINE&fontSize=30&fontAlignY=36&fontColor=00FF88&stroke=183D2B&strokeWidth=2&desc=IDENTITY%3A%20SOFTWARE%20DEVELOPER%20%20%7C%20%20ACCESS%20LEVEL%3A%20DEVELOPER&descSize=14&descAlignY=64&descAlign=50" width="100%" alt="Ghost Protocol System Header" />
-  </a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003b25,100:00ff88&height=200&section=header&text=ARSATH%20MOHAMMED&fontSize=38&fontColor=00ff88&animation=fadeIn&fontAlignY=38&desc=GHOST_PROTOCOL%20%7C%20SYSTEM%20ONLINE&descSize=15&descAlignY=58" alt="Neon green hacker header"/>
 
-  <!-- ANIMATED TYPING TAGLINE -->
-  <a href="https://github.com/arsathmohammed11">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=00FF88&background=00000000&center=true&vCenter=true&width=650&lines=Initializing+creativity...;Turning+ideas+into+code.;Debugging+the+impossible.;Building+beyond+boundaries.;Learning.+Building.+Evolving." alt="Animated Terminal Tagline" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=00FF88&center=true&vCenter=true&width=600&lines=%3E+Initializing+developer+mode...;%3E+Building+ideas+with+code;%3E+Learning.+Building.+Evolving." alt="Animated terminal text"/>
 
-  <br />
+![Status](https://img.shields.io/badge/SYSTEM-ONLINE-00ff88?style=for-the-badge&labelColor=050505)
+![Profile](https://img.shields.io/badge/PROFILE-GHOST_PROTOCOL-00ff88?style=for-the-badge&labelColor=050505)
 
-  <!-- TELEMETRY CHIPS -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/KERNEL-ONLINE-0B0F0C?style=flat-square&logo=gnubash&logoColor=00FF88&labelColor=050505&color=183D2B" alt="Kernel Online" />
-    <img src="https://img.shields.io/badge/SECURITY-ROOT__ACTIVE-0B0F0C?style=flat-square&logo=wireguard&logoColor=00FF88&labelColor=050505&color=183D2B" alt="Security Root" />
-    <img src="https://img.shields.io/badge/NODE-COIMBATORE%2C%20IN-0B0F0C?style=flat-square&logo=googlemaps&logoColor=00FF88&labelColor=050505&color=183D2B" alt="Node Coimbatore" />
-    <img src="https://img.shields.io/badge/LATENCY-OPTIMAL-0B0F0C?style=flat-square&logo=speedtest&logoColor=00FF88&labelColor=050505&color=183D2B" alt="Latency Optimal" />
-  </p>
+[![GitHub](https://img.shields.io/badge/GitHub-arsathmohammed11-0d1117?style=flat-square&logo=github&logoColor=00ff88)](https://github.com/arsathmohammed11)
 
 </div>
 
 ---
 
-
+## > whoami
 
 ```bash
-\$ cat current_objectives.txt
+$ whoami
+Arsath Mohammed
+
+$ identity
+Developer | Problem Solver | Tech Explorer
+
+$ mission
+Turning ideas into reality through code.
+
+$ mindset
+Think deeply. Build boldly. Learn endlessly.
+```
+
+- 💻 Exploring software development and technology
+- 🌱 Always learning and improving my coding skills
+- 🎯 Building projects and strengthening problem-solving
+- 🤝 Open to learning, collaboration, and open source
+
+---
+
+## > tech_stack --scan
+
+<!-- Remove technologies you don't actually know -->
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff88)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff88)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00ff88)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00ff88)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=00ff88)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=00ff88)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff88)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff88)
+
+---
+
+## > github_stats --display
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arsathmohammed11&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github" alt="GitHub stats"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsathmohammed11&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top languages"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=arsathmohammed11&theme=dark&hide_border=true&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" alt="Contribution streak"/>
+
+</div>
+
+---
+
+## > featured_projects
+
+[![Repositories](https://img.shields.io/badge/Explore-My_Repositories-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/arsathmohammed11?tab=repositories)
+
+Pin your best projects here and describe what each one does.
+
+---
+
+## > current_objectives
+
+- [ ] Build meaningful projects
+- [ ] Improve data structures and algorithms
+- [ ] Learn new technologies
+- [ ] Contribute to open source
+- [ ] Grow as a software developer
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:003b25,100:000000&height=100&section=footer" alt="Neon green footer"/>
+
+**ACCESS GRANTED. KEEP BUILDING. KEEP EVOLVING.**
+
+<sub>Designed in darkness. Powered by curiosity. 🖤</sub>
+
+</div>
