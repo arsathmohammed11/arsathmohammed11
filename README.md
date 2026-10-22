@@ -30,7 +30,10 @@
   </p>
 
 </div>
+
+---
+
+
+
+```bash
 \$ cat current_objectives.txt
-
-### `// 01. DIGITAL_IDENTITY (whoami)`
-
